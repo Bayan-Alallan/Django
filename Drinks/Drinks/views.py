@@ -22,7 +22,3 @@ def index (request):
 
 
 
-
-
-
-
